@@ -1,0 +1,18 @@
+sudo vcore launch as vCore
+sudo vcore run vcore_setup.jar
+sudo apt vcore login ajAmjGBHa
+sudo apt modify eula.txt
+sudo vcore run vcore_setup.exe
+sudo launch vcore
+sudo apt vcore source add test
+[ADMITTED]
+sudo apt vcore source add [10.110.165.174]
+[ADMITTED]
+sudo apt vcore useradd test
+[test]
+sudo apt vcore useradd role:superuser add Norse 10.110.165.174
+confirm superuser add
+[y] [n]
+y
+sudo vcore exit
+[EXIT]
